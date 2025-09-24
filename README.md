@@ -1,15 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Pedro+Romero;💻+Full-stack+Developer;🚀+Passionate+about+technology" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Pedro+Romero;💻+Full-stack+Developer;🚀+Always+learning+something+new" />
 </p>
 
 ---
 
 # 👨‍💻 Pedro Romero (@P3dro543)
 
-💻 Computer Science Student  
-🔹 Experience with **Python, Java, JavaScript, Node.js, C# and .NET**  
-🔹 Databases: **MySQL, SQL Server and MongoDB**  
-🌱 Focused on growing as a **full-stack developer**  
+Hi there! I'm **Pedro**, a Computer Science student and technology enthusiast.  
+I enjoy learning new tools, building creative solutions, and sharing my journey as I grow into a **full-stack developer**.  
+
+💡 I’m curious by nature and love exploring how things work behind the scenes.  
+🌍 My goal is to contribute to projects that can make a real impact.  
+⚡ Outside of coding, I’m probably reading, gaming, or planning my next project idea.  
 
 ---
 
@@ -53,3 +55,4 @@
 - ✉️ **Email:** romeropedro07@outlook.com  
 
 ---
+
