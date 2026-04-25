@@ -24,6 +24,8 @@ I enjoy learning new tools, building creative solutions, and sharing my journey 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### 🔹 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -55,4 +57,3 @@ I enjoy learning new tools, building creative solutions, and sharing my journey 
 - ✉️ **Email:** romeropedro07@outlook.com  
 
 ---
-
